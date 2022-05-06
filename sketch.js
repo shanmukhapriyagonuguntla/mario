@@ -50,9 +50,9 @@ function preload(){
     tree2 = loadImage("tree21.png");
 
     // loading bricks images
-    b1 = loadImage("b2.png")
-    b2 = loadImage("b3.png")
-    b3 = loadImage("b4.png")
+    b1 = loadImage("b2.png");
+    b2 = loadImage("b3.png");
+    b3 = loadImage("b4.png");
     //breakbimg = loadImage("b2.png")
 
     // loading enemies images
